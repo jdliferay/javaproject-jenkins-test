@@ -1,0 +1,1 @@
+This is the demo project for how to integrate git with jenkins
